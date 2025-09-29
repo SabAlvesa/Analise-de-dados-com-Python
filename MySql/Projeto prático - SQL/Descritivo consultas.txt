@@ -1,0 +1,76 @@
+SELECT FROM;
+WHERE;
+Operadores de comparação;
+LIMIT;
+ORDER BY.
+
+-
+
+FUNÇÕES DE STRING
+
+CONCAT = concatena string para forma uma única string
+LENGHT = obter o comprimento da string
+SUBTRING = extrair partes de uma string
+LOWER = converte string p/ minúsculas
+UPPER transforma todos os caracteres de um texto em maiúsculas
+TRIM = remove espaços desnecessários de strings
+REPLACE = substitui partes de uma string (é melhor que update?)
+
+-
+
+FUNÇÕES DE DATA
+DATA NOW e CURDATE = data atual
+DATE = apenas a data
+STRTIME (DATE_FORMAT) = formatar data em diferentes padrões
+DATEDIFF = calcula a diferença entre duas datas
+EXTRACT = extrai partes especificas de uma data
+DATE_ADD = adicionar ou subtrair um intervalo de tempo a data
+CASE WHEN = cria condições dentro de uma consulta e retorna a valores com base em critérios da mesma
+
+-
+
+OPERADORES ARITIMÉTICOS 
+(+ - /* ) = Realizam operações aritméticas
+ROUND = arredonda os números
+CEIL = arredonda o número inteiro para o número seguinte
+FLOOR = arredonda o numero inteiro para o anterior
+ABS = calcula o valor absoluto de um número (distancia e diferenças absolutos)
+POWER = retorna o valor de número elevado à potência de outro número
+SQRT = Calcula a raiz quadrada de um número
+
+-
+
+Funções de agregação 
+
+SUM = soma de valores 
+AVG = média de valores
+COUNT = conta o número de registro
+MAX = maior registro
+MIN = menor registro
+GROUP BY = Agrupa registro com característica em comum
+HAVING (depois dos dados serem agrupados) = é um filtro 
+
+-
+
+SUBCONSULTAS = Consultas dentro de uma consulta
+
+SELECT, FROM WHERE, CORRELACIONADAS, EXISTS E NOT EXISTS
+
+-
+
+CLÁUSULAS JOIN 
+
+INNER JOIN = combina duas colunas quando houver correspondência entre as duas 
+RIGHT JOIN = combina duas colunas quando houver correspondência entre as duas diante a esquerda
+LEFT JOIN = combina duas colunas quando houver correspondência entre as duas diante a direita
+FULL JOIN = combina a linha entre todas as tabelas
+FULL JOIN EXCLUSIVO = retorna a todas a linhas de ambos os lados que não coincidem nas colunas especificadas
+CROSS JOIN = combina todas as linhas da segunda tabela9produto cartesiano)
+
+
+-
+
+COMMON TABLE EXPRESSIONS - CTE SIMPLES, CTE MULTIPLAS CONSULTAS
+
+CTE SIMPLES 
+CTE MULTIPLAS CONSULTAS = mais de uma consulta
