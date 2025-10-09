@@ -40,7 +40,7 @@ SQRT = Calcula a raiz quadrada de um número
 
 -
 
-Funções de agregação 
+FUNÇÕES DE AGREGAÇÃO
 
 SUM = soma de valores 
 AVG = média de valores

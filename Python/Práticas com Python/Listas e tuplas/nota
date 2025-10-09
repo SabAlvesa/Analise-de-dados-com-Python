@@ -1,0 +1,9 @@
+listas = coleções de elementos mutáveis(serie de itens que podem ser modificados)
+
+tuplas = coleções de elementos imutáveis(não podem ser alteradas)
+
+o indice começa no 0
+
+slicing = extrair um parte da lista ou tupla
+operador in = elemento está presente em uma lista ou tupla
+concatenação de tuplas = tuplas + tuplas
