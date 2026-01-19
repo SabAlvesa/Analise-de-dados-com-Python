@@ -1,0 +1,11 @@
+import --
+
+importações unicas = from(biblioteca) import 
+
+math (biblioteca padrão)
+ceil -> arredondamento p/ cima
+floor -> arredondamento p/ baixo
+trunc 
+pow -> potência
+sqrt -> raiz quadrada
+factorial ->

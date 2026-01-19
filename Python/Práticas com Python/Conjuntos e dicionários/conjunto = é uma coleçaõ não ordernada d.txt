@@ -1,0 +1,9 @@
+conjunto = é uma coleçaõ não ordernada de elemenetos, sem elemenetos repetidos
+
+set = cria os conjuntos vazios
+
+acessar elementos = in ou not in 
+métodos = add, update, remove, 
+
+
+dicionário = estruturas de dados que armazenam pares chave-valor, serve para organizar dados de forma estruturada

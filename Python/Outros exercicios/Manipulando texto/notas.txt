@@ -1,0 +1,27 @@
+Manipulando cadeias de texto - String
+between ' or "
+
+fatiamento - começa em 0 - maiscuslas e minusculas são difentes
+[] - lista
+[] - indice com localizar numerico ex; [9:21] 
+-[9:21:2] pula dois 
+- [:5] fatiamento sem saber o começo
+
+análise
+len - comprimento
+count - contar sempre precisa de um parâmetro
+find - encontrar 
+in - verificar dentro da 'frase'
+
+transformação
+lista de string é imutável mas é possivel mudar através de métodos
+replace - substituir
+upper - maiscuslas
+lower - minisculas
+capitalize - apenas o primeiro caracter fica maiscusla
+title - transforma o primeiro caracter quebrando o texto
+strip - remove o espaço do meio e do fim
+
+divisão
+split - cria uma divisão nos espaços e cria indices
+join - junção
