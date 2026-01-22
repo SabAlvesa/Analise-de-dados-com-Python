@@ -1,0 +1,7 @@
+padrão ansi
+\033[ style text back m
+\033[0:33:44m
+
+style 0(none), 1(bold), 4(underline), 7(negativa)
+text 30 a 37 - branco, vermelho, verde, amarelo, azul, magenta, ciano, cinza
+backgorund 40 a 47
