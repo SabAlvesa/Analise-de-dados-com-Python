@@ -1,0 +1,2 @@
+estrutura condicionasi tem apenas duas opções: verdadeiro ou falso
+se(if)  - senão se(elif)  - senão(else)
