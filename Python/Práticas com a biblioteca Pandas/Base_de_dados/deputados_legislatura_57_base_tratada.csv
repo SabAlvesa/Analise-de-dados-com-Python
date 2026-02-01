@@ -1,0 +1,621 @@
+Código,Nome,Estado,Sigla Gênero,Gênero,Data de nascimento,Idade,Primeira legislatura
+1,Abilio Brunini,MT,M,Masculino,31/01/1984,41,TRUE
+2,Acácio Favacho,AP,M,Masculino,28/09/1983,42,TRUE
+3,Adail Filho,AM,M,Masculino,16/02/1992,33,TRUE
+4,Adilson Barroso,MG,M,Masculino,14/06/1964,61,TRUE
+5,Adolfo Viana,BA,M,Masculino,02/02/1981,44,TRUE
+6,Adriana Ventura,SP,F,Feminino,06/03/1969,56,TRUE
+7,Adriano do Baldy,GO,M,Masculino,06/09/1969,56,TRUE
+8,Aécio Neves,MG,M,Masculino,10/03/1960,65,TRUE
+9,Afonso Florence,BA,M,Masculino,15/10/1960,65,TRUE
+10,Afonso Hamm,RS,M,Masculino,25/04/1962,63,TRUE
+11,Afonso Motta,RS,M,Masculino,08/01/1950,75,TRUE
+12,Aguinaldo Ribeiro,PB,M,Masculino,13/02/1969,56,TRUE
+13,Airton Faleiro,RS,M,Masculino,16/03/1959,66,TRUE
+14,AJ Albuquerque,CE,M,Masculino,26/09/1983,42,TRUE
+15,Alberto Fraga,SE,M,Masculino,02/06/1956,69,TRUE
+16,Alberto Mourão,SP,M,Masculino,26/04/1954,71,TRUE
+17,Albuquerque,CE,M,Masculino,25/01/1974,51,TRUE
+18,Alceu Moreira,RS,M,Masculino,04/06/1954,71,TRUE
+19,Alencar Santana,SP,M,Masculino,14/03/1976,49,TRUE
+20,Alex Manente,SP,M,Masculino,22/08/1979,46,TRUE
+21,Alex Santana,BA,M,Masculino,22/06/1972,53,TRUE
+22,Alexandre Guimarães,TO,M,Masculino,19/02/1986,39,TRUE
+23,Alexandre Leite,SP,M,Masculino,18/04/1989,36,TRUE
+24,Alexandre Lindenmeyer,RS,M,Masculino,23/12/1963,61,TRUE
+25,Alexandre Padilha,SP,M,Masculino,14/09/1971,54,TRUE
+26,Alfredinho,PI,M,Masculino,24/06/1959,66,TRUE
+27,Alfredo Gaspar,AL,M,Masculino,13/08/1970,55,TRUE
+28,Alice Portugal,BA,F,Feminino,16/05/1959,66,TRUE
+29,Aliel Machado,PR,M,Masculino,26/02/1989,36,TRUE
+30,Aline Gurgel,AP,F,Feminino,25/11/1980,44,TRUE
+31,Allan Garcês,PA,M,Masculino,30/08/1969,56,TRUE
+32,Altineu Côrtes,RJ,M,Masculino,13/09/1968,57,TRUE
+33,Aluisio Mendes,MG,M,Masculino,11/11/1961,63,TRUE
+34,Amália Barros,SP,F,Feminino,22/03/1985,40,TRUE
+35,Amanda Gentil,MA,F,Feminino,25/12/1998,26,TRUE
+36,Amaro Neto,ES,M,Masculino,04/12/1976,48,TRUE
+37,Amom Mandel,PE,M,Masculino,02/01/2001,24,TRUE
+38,Ana Paula Leão,MG,F,Feminino,22/08/1965,60,TRUE
+39,Ana Paula Lima,PR,F,Feminino,19/04/1964,61,TRUE
+40,Ana Pimentel,MG,F,Feminino,15/05/1982,43,TRUE
+41,André Abdon,PA,M,Masculino,10/11/1970,54,TRUE
+42,André Fernandes,CE,M,Masculino,10/12/1997,27,TRUE
+43,André Ferreira,PE,M,Masculino,10/12/1972,52,TRUE
+44,André Figueiredo,CE,M,Masculino,10/11/1966,58,TRUE
+45,André Fufuca,MA,M,Masculino,27/08/1989,36,TRUE
+46,André Janones,MG,M,Masculino,05/05/1984,41,TRUE
+47,Andreia Siqueira,PA,F,Feminino,19/08/1992,33,TRUE
+48,Antônia Lúcia,AC,F,Feminino,17/07/1970,55,TRUE
+49,Antonio Andrade,TO,M,Masculino,22/10/1958,67,TRUE
+50,Antonio Brito,BA,M,Masculino,17/01/1969,56,TRUE
+51,Antonio Carlos Rodrigues,SP,M,Masculino,17/05/1950,75,TRUE
+52,Antônio Doido,BA,M,Masculino,26/08/1976,49,TRUE
+53,Any Ortiz,RS,F,Feminino,19/10/1983,42,TRUE
+54,Arlindo Chinaglia,SP,M,Masculino,24/12/1949,75,TRUE
+55,Arnaldo Jardim,SP,M,Masculino,08/05/1955,70,TRUE
+56,Arthur Lira,AL,M,Masculino,25/06/1969,56,TRUE
+57,Arthur Oliveira Maia,BA,M,Masculino,17/08/1964,61,TRUE
+58,Átila Lins,AM,M,Masculino,22/11/1950,74,TRUE
+59,Átila Lira,PI,M,Masculino,01/04/1980,45,TRUE
+60,Augusto Coutinho,PE,M,Masculino,22/10/1962,63,TRUE
+61,Augusto Puppio,PA,M,Masculino,09/05/1982,43,TRUE
+62,Aureo Ribeiro,RJ,M,Masculino,17/02/1979,46,TRUE
+63,Bacelar,BA,M,Masculino,09/07/1957,68,TRUE
+64,Baleia Rossi,SP,M,Masculino,09/06/1972,53,TRUE
+65,Bandeira de Mello,RJ,M,Masculino,22/03/1953,72,TRUE
+66,Bebeto,MG,M,Masculino,31/07/1963,62,TRUE
+67,Benedita da Silva,RJ,F,Feminino,26/04/1942,83,TRUE
+68,Benes Leocádio,RN,M,Masculino,22/04/1966,59,TRUE
+69,Beto Pereira,MS,M,Masculino,14/11/1977,47,TRUE
+70,Beto Preto,PR,M,Masculino,17/02/1968,57,TRUE
+71,Beto Richa,PR,M,Masculino,29/07/1965,60,TRUE
+72,Bia Kicis,RJ,F,Feminino,19/09/1961,64,TRUE
+73,Bibo Nunes,RS,M,Masculino,09/01/1957,68,TRUE
+74,Bohn Gass,RS,M,Masculino,05/02/1962,63,TRUE
+75,Bosco Costa,SE,M,Masculino,28/09/1950,75,TRUE
+76,Bruno Farias,MG,M,Masculino,07/10/1982,43,TRUE
+77,Bruno Ganem,SP,M,Masculino,15/09/1986,39,TRUE
+78,Cabo Gilberto Silva,PB,M,Masculino,01/04/1981,44,TRUE
+79,Caio Vianna,RJ,M,Masculino,08/12/1988,36,TRUE
+80,Camila Jara,MS,F,Feminino,10/02/1995,30,TRUE
+81,Capitão Alberto Neto,CE,M,Masculino,05/05/1982,43,TRUE
+82,Capitão Alden,BA,M,Masculino,19/04/1980,45,TRUE
+83,Capitão Augusto,SP,M,Masculino,04/10/1966,59,TRUE
+84,Capitão Samuel,SE,M,Masculino,03/02/1970,55,TRUE
+85,Carla Ayres,SP,F,Feminino,15/03/1988,37,TRUE
+86,Carla Dickson,PA,F,Feminino,02/07/1976,49,TRUE
+87,Carla Zambelli,SP,F,Feminino,03/07/1980,45,TRUE
+88,Carlos Chiodini,SC,M,Masculino,08/03/1982,43,TRUE
+89,Carlos Gomes,BA,M,Masculino,13/06/1972,53,TRUE
+90,Carlos Henrique Gaguim,GO,M,Masculino,21/04/1961,64,TRUE
+91,Carlos Jordy,RJ,M,Masculino,08/02/1982,43,TRUE
+92,Carlos Sampaio,SP,M,Masculino,31/03/1963,62,TRUE
+93,Carlos Veras,PE,M,Masculino,10/08/1981,44,TRUE
+94,Carlos Zarattini,SP,M,Masculino,08/06/1959,66,TRUE
+95,Carmen Zanotto,SC,F,Feminino,06/10/1962,63,TRUE
+96,Carol Dartora,PR,F,Feminino,01/05/1983,42,TRUE
+97,Caroline de Toni,SC,F,Feminino,01/09/1986,39,TRUE
+98,Castro Neto,PI,M,Masculino,23/04/1974,51,TRUE
+99,Célia Xakriabá,SP,F,Feminino,10/05/1989,36,TRUE
+100,Célio Silveira,GO,M,Masculino,19/09/1959,66,TRUE
+101,Célio Studart,CE,M,Masculino,19/06/1987,38,TRUE
+102,Celso Russomanno,SP,M,Masculino,20/08/1956,69,TRUE
+103,Celso Sabino,PA,M,Masculino,29/08/1978,47,TRUE
+104,Cezinha de Madureira,BA,M,Masculino,12/12/1973,51,TRUE
+105,Charles Fernandes,BA,M,Masculino,15/03/1965,60,TRUE
+106,Chico Alencar,RJ,M,Masculino,19/10/1949,76,TRUE
+107,Chiquinho Brazão,RJ,M,Masculino,22/02/1962,63,TRUE
+108,Chris Tonietto,RJ,F,Feminino,14/05/1991,34,TRUE
+109,Clarissa Tércio,PE,F,Feminino,26/12/1984,40,TRUE
+110,Claudio Cajado,BA,M,Masculino,01/12/1963,61,TRUE
+111,Cleber Verde,MA,M,Masculino,10/05/1972,53,TRUE
+112,Clodoaldo Magalhães,PE,M,Masculino,13/11/1975,49,TRUE
+113,Cobalchini,SC,M,Masculino,07/09/1963,62,TRUE
+114,Coronel Armando,RJ,M,Masculino,23/06/1957,68,TRUE
+115,Coronel Assis,MT,M,Masculino,16/04/1976,49,TRUE
+116,Coronel Chrisóstomo,AM,M,Masculino,23/06/1959,66,TRUE
+117,Coronel Fernanda,MT,F,Feminino,13/11/1974,50,TRUE
+118,Coronel Meira,PE,M,Masculino,07/01/1958,67,TRUE
+119,Coronel Tadeu,SP,M,Masculino,30/09/1965,60,TRUE
+120,Coronel Telhada,SP,M,Masculino,10/10/1961,64,TRUE
+121,Coronel Ulysses,AC,M,Masculino,19/10/1972,53,TRUE
+122,Covatti Filho,RS,M,Masculino,25/07/1987,38,TRUE
+123,Cristiane Lopes,RO,F,Feminino,17/11/1983,41,TRUE
+124,Da Vitoria,ES,M,Masculino,02/06/1971,54,TRUE
+125,Dagoberto Nogueira,SP,M,Masculino,21/07/1955,70,TRUE
+126,Daiana Santos,RS,F,Feminino,29/01/1982,43,TRUE
+127,Dal Barreto,BA,M,Masculino,16/03/1979,46,TRUE
+128,Damião Feliciano,PB,M,Masculino,28/04/1952,73,TRUE
+129,Dandara,MG,F,Feminino,23/01/1994,31,TRUE
+130,Dani Cunha,RJ,F,Feminino,19/05/1987,38,TRUE
+131,Daniel Agrobom,MG,M,Masculino,02/07/1968,57,TRUE
+132,Daniel Almeida,BA,M,Masculino,21/01/1955,70,TRUE
+133,Daniel Barbosa,AL,M,Masculino,27/10/1984,40,TRUE
+134,Daniel Freitas,SC,M,Masculino,03/04/1982,43,TRUE
+135,Daniel José,SP,M,Masculino,14/02/1988,37,TRUE
+136,Daniel Trzeciak,RS,M,Masculino,04/11/1986,38,TRUE
+137,Daniela do Waguinho,RJ,F,Feminino,10/02/1976,49,TRUE
+138,Daniela Reinehr,SC,F,Feminino,04/04/1977,48,TRUE
+139,Danilo Forte,CE,M,Masculino,01/09/1958,67,TRUE
+140,Danrlei de Deus Hinterholz,RS,M,Masculino,18/04/1973,52,FALSE
+141,Darci de Matos,PR,M,Masculino,08/11/1961,63,FALSE
+142,David Soares,RJ,M,Masculino,21/12/1973,51,TRUE
+143,Dayany Bittencourt,CE,F,Feminino,13/09/1981,44,TRUE
+144,Defensor Stélio Dener,RR,M,Masculino,16/11/1972,52,TRUE
+145,Delegada Adriana Accorsi,GO,F,Feminino,17/03/1973,52,TRUE
+146,Delegada Ione,MG,F,Feminino,20/03/1974,51,TRUE
+147,Delegada Katarina,SE,F,Feminino,05/10/1973,52,TRUE
+148,Delegado Bruno Lima,SP,M,Masculino,25/08/1986,39,TRUE
+149,Delegado Caveira,GO,M,Masculino,27/04/1979,46,TRUE
+150,Delegado da Cunha,SP,M,Masculino,14/10/1977,48,TRUE
+151,Delegado Éder Mauro,PA,M,Masculino,14/12/1960,64,TRUE
+152,Delegado Fabio Costa,PE,M,Masculino,15/10/1980,45,TRUE
+153,Delegado Marcelo Freitas,MG,M,Masculino,04/03/1976,49,TRUE
+154,Delegado Matheus Laiola,SP,M,Masculino,24/12/1982,42,TRUE
+155,Delegado Palumbo,SP,M,Masculino,16/08/1974,51,TRUE
+156,Delegado Paulo Bilynskyj,SP,M,Masculino,10/03/1987,38,TRUE
+157,Delegado Ramagem,RJ,M,Masculino,08/05/1972,53,TRUE
+158,Délio Pinheiro,MG,M,Masculino,27/09/1977,48,TRUE
+159,Deltan Dallagnol,PR,M,Masculino,15/01/1980,45,TRUE
+160,Denise Pessôa,RS,F,Feminino,17/06/1983,42,TRUE
+161,Detinha,CE,F,Feminino,25/01/1979,46,TRUE
+162,Diego Andrade,MG,M,Masculino,08/08/1977,48,TRUE
+163,Diego Coronel,BA,M,Masculino,22/01/1983,42,TRUE
+164,Diego Garcia,PR,M,Masculino,10/10/1984,41,TRUE
+165,Dilceu Sperafico,RS,M,Masculino,26/01/1948,77,TRUE
+166,Dilvanda Faro,PA,F,Feminino,08/05/1969,56,TRUE
+167,Dimas Fabiano,RJ,M,Masculino,23/05/1973,52,TRUE
+168,Dimas Gadelha,PB,M,Masculino,03/05/1975,50,TRUE
+169,Domingos Neto,CE,M,Masculino,29/04/1988,37,TRUE
+170,Domingos Sávio,MG,M,Masculino,25/03/1957,68,TRUE
+171,Dorinaldo Malafaia,AP,M,Masculino,23/02/1976,49,TRUE
+172,Douglas Viegas,SP,M,Masculino,19/06/1979,46,TRUE
+173,Doutor Luizinho,RJ,M,Masculino,15/12/1973,51,TRUE
+174,Dr Fabio Rueda,PE,M,Masculino,17/07/1977,48,TRUE
+175,Dr Flávio,MG,M,Masculino,25/02/1971,54,TRUE
+176,Dr. Benjamim,PR,M,Masculino,07/02/1973,52,TRUE
+177,Dr. Daniel Soranz,RJ,M,Masculino,16/02/1979,46,TRUE
+178,Dr. Fernando Máximo,GO,M,Masculino,04/10/1979,46,TRUE
+179,Dr. Francisco,PI,M,Masculino,14/10/1979,46,TRUE
+180,Dr. Frederico,RJ,M,Masculino,24/03/1977,48,TRUE
+181,Dr. Gonçalo,MA,M,Masculino,08/07/1953,72,TRUE
+182,Dr. Ismael Alexandrino,GO,M,Masculino,26/07/1983,42,TRUE
+183,Dr. Jaziel,CE,M,Masculino,03/05/1961,64,TRUE
+184,Dr. Luiz Ovando,MS,M,Masculino,25/09/1949,76,TRUE
+185,Dr. Remy Soares,MA,M,Masculino,04/10/1990,35,TRUE
+186,Dr. Victor Linhalis,ES,M,Masculino,02/01/1986,39,TRUE
+187,Dr. Zacharias Calil,GO,M,Masculino,05/11/1953,71,TRUE
+188,Dra. Alessandra Haber,PA,F,Feminino,15/09/1988,37,TRUE
+189,Dra. Mayra Pinheiro,CE,F,Feminino,21/11/1966,58,TRUE
+190,Duarte Gonçalves Jr,MG,M,Masculino,11/09/1980,45,TRUE
+191,Duarte Jr.,RJ,M,Masculino,15/09/1986,39,TRUE
+192,Duda Ramos,AM,M,Masculino,19/05/1974,51,TRUE
+193,Duda Salabert,MG,F,Feminino,02/05/1981,44,TRUE
+194,Eduardo Bismarck,CE,M,Masculino,14/11/1981,43,TRUE
+195,Eduardo Bolsonaro,RJ,M,Masculino,10/07/1984,41,TRUE
+196,Eduardo da Fonte,PE,M,Masculino,17/10/1972,53,TRUE
+197,Eduardo Velloso,AC,M,Masculino,08/07/1976,49,TRUE
+198,Elcione Barbalho,PA,F,Feminino,05/10/1944,81,TRUE
+199,Eli Borges,GO,M,Masculino,01/09/1960,65,TRUE
+200,Eliane Braz,CE,F,Feminino,08/09/1976,49,TRUE
+201,Elisangela Araujo,BA,F,Feminino,29/08/1973,52,TRUE
+202,Eliza Virgínia,PB,F,Feminino,02/04/1972,53,TRUE
+203,Elmar Nascimento,BA,M,Masculino,06/07/1970,55,TRUE
+204,Ely Santos,SP,F,Feminino,13/01/1977,48,TRUE
+205,Emanuel Pinheiro Neto,MT,M,Masculino,05/01/1995,30,TRUE
+206,Emidinho Madeira,MG,M,Masculino,10/03/1967,58,TRUE
+207,Enfermeira Ana Paula,CE,F,Feminino,17/11/1983,41,TRUE
+208,Enfermeira Rejane,RJ,F,Feminino,24/08/1963,62,TRUE
+209,Enio Verri,PR,M,Masculino,27/03/1961,64,TRUE
+210,Eriberto Medeiros,PE,M,Masculino,26/09/1965,60,TRUE
+211,Erika Hilton,SP,F,Feminino,09/12/1992,32,TRUE
+212,Erika Kokay,CE,F,Feminino,15/08/1957,68,TRUE
+213,Eros Biondini,MG,M,Masculino,20/05/1971,54,TRUE
+214,Euclydes Pettersen,MG,M,Masculino,15/08/1984,41,TRUE
+215,Eunício Oliveira,CE,M,Masculino,30/09/1952,73,TRUE
+216,Evair Vieira de Melo,ES,M,Masculino,02/04/1972,53,FALSE
+217,Fabio Garcia,DF,M,Masculino,29/06/1977,48,TRUE
+218,Fábio Henrique,SE,M,Masculino,19/06/1972,53,TRUE
+219,Fábio Macedo,MA,M,Masculino,18/09/1981,44,TRUE
+220,Fabio Reis,SE,M,Masculino,15/04/1977,48,TRUE
+221,Fabio Schiochet,SC,M,Masculino,31/05/1988,37,TRUE
+222,Fábio Teruel,SP,M,Masculino,22/10/1971,54,TRUE
+223,Fausto Pinato,SP,M,Masculino,01/06/1977,48,TRUE
+224,Fausto Santos Jr.,AM,M,Masculino,20/12/1992,32,TRUE
+225,Felipe Becari,SP,M,Masculino,06/03/1987,38,TRUE
+226,Felipe Carreras,PE,M,Masculino,16/04/1975,50,TRUE
+227,Felipe Francischini,PR,M,Masculino,02/10/1991,34,TRUE
+228,Felipe Saliba,MG,M,Masculino,12/06/1980,45,TRUE
+229,Félix Mendonça Júnior,BA,M,Masculino,29/11/1963,61,TRUE
+230,Fernanda Melchionna,RS,F,Feminino,02/02/1984,41,TRUE
+231,Fernanda Pessoa,CE,F,Feminino,08/06/1966,59,TRUE
+232,Fernando Coelho Filho,PE,M,Masculino,28/02/1984,41,TRUE
+233,Fernando Mineiro,MG,M,Masculino,06/12/1956,68,TRUE
+234,Fernando Monteiro,PE,M,Masculino,17/09/1976,49,TRUE
+235,Fernando Rodolfo,PE,M,Masculino,17/11/1983,41,TRUE
+236,Filipe Barros,PR,M,Masculino,29/05/1991,34,TRUE
+237,Filipe Martins,GO,M,Masculino,01/04/1984,41,TRUE
+238,Flávia Morais,MG,F,Feminino,26/04/1969,56,TRUE
+239,Flavinha,MT,F,Feminino,08/11/1990,34,TRUE
+240,Flávio Nogueira,CE,M,Masculino,27/02/1953,72,TRUE
+241,Florentino Neto,PI,M,Masculino,05/10/1969,56,TRUE
+242,Franciane Bayer,RS,F,Feminino,09/10/1987,38,TRUE
+243,Fred Costa,MG,M,Masculino,12/07/1977,48,TRUE
+244,Fred Linhares,DF,M,Masculino,26/01/1980,45,TRUE
+245,Gabriel Mota,RR,M,Masculino,24/12/1982,42,TRUE
+246,Gabriel Nunes,PE,M,Masculino,23/07/1983,42,TRUE
+247,General Girão,CE,M,Masculino,08/05/1955,70,TRUE
+248,General Pazuello,RJ,M,Masculino,19/07/1963,62,TRUE
+249,Geovania de Sá,SC,F,Feminino,30/03/1972,53,TRUE
+250,Geraldo Mendes,SC,M,Masculino,05/12/1985,39,TRUE
+251,Geraldo Resende,MG,M,Masculino,20/04/1955,70,TRUE
+252,Gerlen Diniz,AC,M,Masculino,08/04/1974,51,TRUE
+253,Gervásio Maia,SP,M,Masculino,14/04/1975,50,TRUE
+254,Giacobo,PR,M,Masculino,17/12/1970,54,TRUE
+255,Gilberto Abramo,SP,M,Masculino,06/08/1966,59,TRUE
+256,Gilberto Nascimento,SP,M,Masculino,09/07/1956,69,TRUE
+257,Gilson Daniel,RJ,M,Masculino,17/07/1978,47,TRUE
+258,Gilson Marques,SC,M,Masculino,12/04/1981,44,TRUE
+259,Gilvan da Federal,MA,M,Masculino,24/09/1976,49,TRUE
+260,Gilvan Maximo,GO,M,Masculino,10/05/1969,56,TRUE
+261,Giovani Cherini,RS,M,Masculino,23/06/1960,65,FALSE
+262,Gisela Simona,MT,F,Feminino,28/04/1977,48,TRUE
+263,Glauber Braga,RJ,M,Masculino,26/06/1982,43,TRUE
+264,Gláucia Santiago,MG,F,Feminino,20/02/1960,65,TRUE
+265,Glaustin da Fokus,GO,M,Masculino,22/12/1973,51,TRUE
+266,Gleisi Hoffmann,PR,F,Feminino,06/09/1965,60,TRUE
+267,Greyce Elias,MG,F,Feminino,15/12/1981,43,TRUE
+268,Guilherme Boulos,SP,M,Masculino,19/06/1982,43,TRUE
+269,Guilherme Derrite,SP,M,Masculino,10/10/1984,41,TRUE
+270,Guilherme Uchoa,PE,M,Masculino,27/04/1971,54,TRUE
+271,Gustavo Gayer,GO,M,Masculino,13/04/1981,44,TRUE
+272,Gustinho Ribeiro,SE,M,Masculino,16/02/1982,43,TRUE
+273,Gutemberg Reis,RJ,M,Masculino,09/09/1979,46,TRUE
+274,Heitor Schuch,RS,M,Masculino,25/03/1962,63,TRUE
+275,Helder Salomão,ES,M,Masculino,08/03/1964,61,TRUE
+276,Helena Lima,TO,F,Feminino,30/03/1976,49,TRUE
+277,Hélio Leite,PA,M,Masculino,09/12/1957,67,TRUE
+278,Helio Lopes,RJ,M,Masculino,28/03/1969,56,TRUE
+279,Henderson Pinto,PA,M,Masculino,25/04/1976,49,TRUE
+280,Henrique Júnior,PI,M,Masculino,18/09/1985,40,TRUE
+281,Hercílio Coelho Diniz,MG,M,Masculino,14/09/1963,62,TRUE
+282,Hildo do Candango,BA,M,Masculino,06/12/1970,54,TRUE
+283,Hildo Rocha,MA,M,Masculino,22/04/1960,65,TRUE
+284,Hugo Leal,MG,M,Masculino,06/08/1962,63,TRUE
+285,Hugo Motta,PB,M,Masculino,11/09/1989,36,TRUE
+286,Icaro de Valmir,SE,M,Masculino,10/04/2001,24,TRUE
+287,Idilvan Alencar,CE,M,Masculino,23/09/1968,57,TRUE
+288,Igor Timo,MG,M,Masculino,10/04/1982,43,TRUE
+289,Ismael,SC,M,Masculino,16/07/1965,60,TRUE
+290,Isnaldo Bulhões Jr.,AL,M,Masculino,30/10/1976,48,TRUE
+291,Ivan Junior,CE,M,Masculino,05/07/1982,43,TRUE
+292,Ivan Valente,SP,M,Masculino,05/07/1946,79,FALSE
+293,Ivoneide Caetano,BA,F,Feminino,10/09/1972,53,TRUE
+294,Iza Arruda,PE,F,Feminino,06/09/1987,38,TRUE
+295,Jack Rocha,ES,F,Feminino,26/08/1983,42,TRUE
+296,Jadyel Alencar,PI,M,Masculino,23/07/1987,38,TRUE
+297,Jandira Feghali,PR,F,Feminino,17/05/1957,68,FALSE
+298,Jeferson Rodrigues,GO,M,Masculino,01/05/1975,50,TRUE
+299,Jefferson Campos,SP,M,Masculino,26/10/1964,61,TRUE
+300,Jhonatan de Jesus,RR,M,Masculino,03/09/1983,42,TRUE
+301,Jilmar Tatto,PR,M,Masculino,25/06/1965,60,TRUE
+302,João Carlos Bacelar,BA,M,Masculino,08/10/1972,53,TRUE
+303,João Cury,SP,M,Masculino,22/10/1973,52,TRUE
+304,João Daniel,SC,M,Masculino,22/08/1967,58,TRUE
+305,João Leão,PE,M,Masculino,27/02/1946,79,TRUE
+306,João Maia,PB,M,Masculino,20/09/1953,72,TRUE
+307,Joaquim Passarinho,PA,M,Masculino,02/12/1961,63,TRUE
+308,Jonas Donizette,MG,M,Masculino,25/06/1965,60,TRUE
+309,Jones Moura,RJ,M,Masculino,16/06/1974,51,TRUE
+310,Jorge Braz,MG,M,Masculino,13/07/1953,72,TRUE
+311,Jorge Goetten,SC,M,Masculino,10/04/1962,63,TRUE
+312,Jorge Solla,BA,M,Masculino,11/04/1961,64,TRUE
+313,José Airton Félix Cirilo,CE,M,Masculino,21/02/1957,68,TRUE
+314,José Guimarães,CE,M,Masculino,13/02/1957,68,TRUE
+315,José Medeiros,RN,M,Masculino,19/03/1970,55,TRUE
+316,José Nelto,MG,M,Masculino,19/09/1960,65,TRUE
+317,José Priante,PA,M,Masculino,02/12/1963,61,TRUE
+318,José Rocha,BA,M,Masculino,18/08/1948,77,TRUE
+319,Joseildo Ramos,BA,M,Masculino,23/08/1957,68,TRUE
+320,Josenildo,AP,M,Masculino,29/03/1973,52,TRUE
+321,Josias Gomes,PE,M,Masculino,14/10/1956,69,TRUE
+322,Josimar Maranhãozinho,CE,M,Masculino,13/11/1976,48,TRUE
+323,Josivaldo JP,PA,M,Masculino,29/11/1983,41,TRUE
+324,Juarez Costa,PR,M,Masculino,20/01/1960,65,TRUE
+325,Julia Zanatta,SC,F,Feminino,20/03/1985,40,TRUE
+326,Juliana Cardoso,SP,F,Feminino,22/10/1979,46,TRUE
+327,Juliana Kolankiewicz,PR,F,Feminino,11/08/1979,46,TRUE
+328,Julio Arcoverde,PI,M,Masculino,14/02/1966,59,TRUE
+329,Júlio Cesar,PI,M,Masculino,25/08/1948,77,TRUE
+330,Julio Cesar Ribeiro,SP,M,Masculino,24/02/1975,50,FALSE
+331,Julio Lopes,RJ,M,Masculino,06/04/1959,66,TRUE
+332,Júlio Oliveira,PI,M,Masculino,03/03/1974,51,TRUE
+333,Juninho do Pneu,RJ,M,Masculino,23/10/1976,49,TRUE
+334,Junio Amaral,MG,M,Masculino,30/06/1987,38,TRUE
+335,Júnior Ferrari,PA,M,Masculino,13/07/1967,58,TRUE
+336,Junior Lourenço,MA,M,Masculino,18/10/1978,47,TRUE
+337,Júnior Mano,CE,M,Masculino,16/04/1985,40,TRUE
+338,Juscelino Filho,MA,M,Masculino,06/11/1984,40,TRUE
+339,Katia Dias,MG,F,Feminino,27/02/1978,47,TRUE
+340,Keniston Braga,PA,M,Masculino,02/06/1967,58,TRUE
+341,Kiko Celeguim,SP,M,Masculino,05/05/1984,41,TRUE
+342,Kim Kataguiri,SP,M,Masculino,28/01/1996,29,TRUE
+343,Lafayette de Andrada,MG,M,Masculino,17/10/1966,59,TRUE
+344,Laura Carneiro,RJ,F,Feminino,01/05/1963,62,TRUE
+345,Lázaro Botelho,MA,M,Masculino,11/02/1947,78,TRUE
+346,Leandre,PR,F,Feminino,20/12/1975,49,TRUE
+347,Lebrão,SP,M,Masculino,10/03/1955,70,TRUE
+348,Lêda Borges,MG,F,Feminino,02/11/1961,63,TRUE
+349,Lenir de Assis,PR,F,Feminino,18/09/1969,56,TRUE
+350,Leo Prates,BA,M,Masculino,05/04/1978,47,TRUE
+351,Leonardo Gadelha,DF,M,Masculino,12/05/1975,50,TRUE
+352,Leonardo Monteiro,MG,M,Masculino,09/10/1951,74,TRUE
+353,Leônidas Cristino,CE,M,Masculino,03/06/1957,68,TRUE
+354,Leur Lomanto Júnior,BA,M,Masculino,28/10/1976,48,TRUE
+355,Lídice da Mata,BA,F,Feminino,12/03/1956,69,TRUE
+356,Lincoln Portela,MG,M,Masculino,03/11/1953,71,TRUE
+357,Lindbergh Farias,PB,M,Masculino,08/12/1969,55,TRUE
+358,Loreny,SP,F,Feminino,11/07/1991,34,TRUE
+359,Lucas Ramos,PE,M,Masculino,14/02/1986,39,TRUE
+360,Lucas Redecker,RS,M,Masculino,26/05/1981,44,TRUE
+361,Luciano Alves,PR,M,Masculino,08/01/1973,52,TRUE
+362,Luciano Amaral,AL,M,Masculino,27/06/1986,39,TRUE
+363,Luciano Azevedo,RS,M,Masculino,24/05/1969,56,TRUE
+364,Luciano Bivar,PE,M,Masculino,29/11/1944,80,TRUE
+365,Luciano Ducci,PR,M,Masculino,23/03/1955,70,FALSE
+366,Luciano Galego,MA,M,Masculino,16/07/1984,41,TRUE
+367,Luciano Vieira,RJ,M,Masculino,26/04/1988,37,TRUE
+368,Lucio Mosquini,MT,M,Masculino,23/07/1969,56,TRUE
+369,Lucyana Genésio,MA,F,Feminino,08/10/1979,46,TRUE
+370,Luis Carlos Gomes,RJ,M,Masculino,05/05/1966,59,TRUE
+371,Luis Tibé,MG,M,Masculino,23/07/1971,54,TRUE
+372,Luisa Canziani,PR,F,Feminino,11/04/1996,29,TRUE
+373,Luiz Antonio Corrêa,RJ,M,Masculino,27/12/1940,84,TRUE
+374,Luiz Carlos Busato,SC,M,Masculino,06/11/1948,76,TRUE
+375,Luiz Carlos Hauly,PR,M,Masculino,08/10/1950,75,TRUE
+376,Luiz Carlos Motta,SP,M,Masculino,24/04/1959,66,FALSE
+377,Luiz Couto,PB,M,Masculino,13/02/1945,80,FALSE
+378,Luiz Fernando Faria,MG,M,Masculino,12/09/1957,68,TRUE
+379,Luiz Fernando Vampiro,SC,M,Masculino,07/11/1973,51,TRUE
+380,Luiz Gastão,RJ,M,Masculino,19/08/1962,63,TRUE
+381,Luiz Lima,RJ,M,Masculino,10/12/1977,47,TRUE
+382,Luiz Marinho,SP,M,Masculino,20/05/1959,66,TRUE
+383,Luiz Nishimori,PR,M,Masculino,09/04/1949,76,TRUE
+384,Luiz Philippe de Orleans e Bragança,RJ,M,Masculino,03/04/1969,56,TRUE
+385,Luiza Erundina,PB,F,Feminino,30/11/1934,90,TRUE
+386,Luizianne Lins,CE,F,Feminino,18/11/1968,56,TRUE
+387,Lula da Fonte,PE,M,Masculino,08/12/2000,24,TRUE
+388,Magda Mofatto,SP,F,Feminino,26/10/1948,77,TRUE
+389,Marangoni,SP,M,Masculino,22/01/1980,45,TRUE
+390,Marcel van Hattem,RS,M,Masculino,08/11/1985,39,FALSE
+391,Marcelo Álvaro Antônio,MG,M,Masculino,16/02/1974,51,TRUE
+392,Marcelo Calero,RJ,M,Masculino,07/07/1982,43,TRUE
+393,Marcelo Crivella,RJ,M,Masculino,09/10/1957,68,TRUE
+394,Marcelo Lima,SP,M,Masculino,21/03/1983,42,TRUE
+395,Marcelo Moraes,RS,M,Masculino,07/08/1979,46,TRUE
+396,Marcelo Queiroz,RJ,M,Masculino,03/11/1984,40,TRUE
+397,Marcio Alvino,SP,M,Masculino,14/06/1969,56,TRUE
+398,Márcio Biolchi,RS,M,Masculino,23/05/1979,46,TRUE
+399,Márcio Correa,GO,M,Masculino,31/05/1980,45,TRUE
+400,Márcio Honaiser,RS,M,Masculino,04/04/1967,58,TRUE
+401,Márcio Jerry,MA,M,Masculino,14/11/1966,58,TRUE
+402,Márcio Marinho,RJ,M,Masculino,12/12/1970,54,TRUE
+403,Marco Bertaiolli,SP,M,Masculino,30/04/1968,57,TRUE
+404,Marco Brasil,SP,M,Masculino,28/01/1966,59,TRUE
+405,Marcon,RS,M,Masculino,21/09/1964,61,TRUE
+406,Marcos Aurélio Sampaio,PI,M,Masculino,19/09/1991,34,TRUE
+407,Marcos Pereira,ES,M,Masculino,04/04/1972,53,TRUE
+408,Marcos Pollon,MS,M,Masculino,19/01/1981,44,TRUE
+409,Marcos Soares,RJ,M,Masculino,16/05/1978,47,TRUE
+410,Marcos Tavares,RJ,M,Masculino,28/01/1978,47,TRUE
+411,Maria Arraes,PE,F,Feminino,24/02/1994,31,TRUE
+412,Maria do Rosário,RS,F,Feminino,22/11/1966,58,TRUE
+413,Maria Rosas,RJ,F,Feminino,01/10/1965,60,TRUE
+414,Mariana Carvalho,MA,F,Feminino,02/07/1994,31,TRUE
+415,Marina Silva,AC,F,Feminino,08/02/1958,67,TRUE
+416,Mario Frias,RJ,M,Masculino,09/10/1971,54,TRUE
+417,Mário Heringer,MG,M,Masculino,30/09/1954,71,TRUE
+418,Mário Negromonte Jr.,BA,M,Masculino,31/08/1980,45,TRUE
+419,Marreca Filho,MA,M,Masculino,25/04/1992,33,TRUE
+420,Marussa Boldrin,GO,F,Feminino,25/06/1990,35,TRUE
+421,Marx Beltrão,AL,M,Masculino,28/11/1979,45,TRUE
+422,Matheus Noronha,PA,M,Masculino,10/09/1998,27,TRUE
+423,Maurício Carvalho,RO,M,Masculino,25/06/1988,37,TRUE
+424,Mauricio do Vôlei,MG,M,Masculino,29/09/1988,37,TRUE
+425,Mauricio Marcon,RS,M,Masculino,24/01/1987,38,TRUE
+426,Mauricio Neves,SP,M,Masculino,05/11/1979,45,TRUE
+427,Mauro Benevides Filho,CE,M,Masculino,09/03/1959,66,TRUE
+428,Max Lemos,RJ,M,Masculino,17/01/1966,59,TRUE
+429,Meire Serafim,RO,F,Feminino,10/02/1975,50,TRUE
+430,Mendonça Filho,PE,M,Masculino,12/07/1966,59,TRUE
+431,Merlong Solano,PI,M,Masculino,17/09/1958,67,TRUE
+432,Mersinho Lucena,PB,M,Masculino,08/02/1981,44,TRUE
+433,Messias Donato,BA,M,Masculino,06/08/1976,49,TRUE
+434,Miguel Ângelo,MG,M,Masculino,11/10/1991,34,TRUE
+435,Miguel Lombardi,SP,M,Masculino,29/01/1964,61,FALSE
+436,Milton Vieira,SP,M,Masculino,16/09/1962,63,TRUE
+437,Misael Varella,MG,M,Masculino,27/11/1959,65,TRUE
+438,Missionária Michele Collins,MG,F,Feminino,17/10/1977,48,TRUE
+439,Missionário José Olimpio,SP,M,Masculino,11/12/1956,68,TRUE
+440,Moses Rodrigues,CE,M,Masculino,06/06/1978,47,TRUE
+441,Murillo Gouvea,RJ,M,Masculino,22/09/1986,39,TRUE
+442,Murilo Galdino,PB,M,Masculino,02/07/1980,45,TRUE
+443,Natália Bonavides,RN,F,Feminino,15/06/1988,37,TRUE
+444,Naumi Amorim,CE,M,Masculino,30/01/1967,58,TRUE
+445,Nelinho Freitas,CE,M,Masculino,07/03/1983,42,TRUE
+446,Nelson Barbudo,SP,M,Masculino,14/02/1960,65,TRUE
+447,Nely Aquino,MG,F,Feminino,17/11/1972,52,TRUE
+448,Neto Carletto,BA,M,Masculino,28/05/1996,29,TRUE
+449,Newton Bonin,PR,M,Masculino,29/08/1960,65,TRUE
+450,Newton Cardoso Jr,MG,M,Masculino,11/11/1979,45,TRUE
+451,Nicoletti,RS,M,Masculino,21/07/1981,44,TRUE
+452,Nikolas Ferreira,MG,M,Masculino,30/05/1996,29,TRUE
+453,Nilto Tatto,RS,M,Masculino,31/07/1963,62,TRUE
+454,Nitinho,SE,M,Masculino,31/05/1966,59,TRUE
+455,Odair Cunha,SP,M,Masculino,18/06/1976,49,TRUE
+456,Olival Marques,PA,M,Masculino,09/01/1982,43,TRUE
+457,Orlando Silva,BA,M,Masculino,27/05/1971,54,TRUE
+458,Osmar Terra,RS,M,Masculino,18/02/1950,75,TRUE
+459,Ossesio Silva,RJ,M,Masculino,09/12/1954,70,TRUE
+460,Otoni de Paula,RJ,M,Masculino,22/11/1976,48,TRUE
+461,Otto Alencar Filho,BA,M,Masculino,07/07/1977,48,TRUE
+462,Padovani,PR,M,Masculino,29/10/1977,47,TRUE
+463,Padre João,MG,M,Masculino,28/02/1967,58,TRUE
+464,Pastor Claudio Mariano,GO,M,Masculino,16/12/1976,48,TRUE
+465,Pastor Diniz,RR,M,Masculino,21/03/1980,45,TRUE
+466,Pastor Eurico,SP,M,Masculino,12/09/1962,63,TRUE
+467,Pastor Gil,MA,M,Masculino,08/11/1971,53,TRUE
+468,Pastor Henrique Vieira,RJ,M,Masculino,15/04/1987,38,TRUE
+469,Pastor Sargento Isidório,BA,M,Masculino,28/07/1962,63,TRUE
+470,Patrus Ananias,MG,M,Masculino,26/01/1952,73,TRUE
+471,Pauderney Avelino,AM,M,Masculino,24/09/1954,71,TRUE
+472,Paulão,PE,M,Masculino,15/09/1957,68,TRUE
+473,Paulinho da Força,PR,M,Masculino,24/02/1956,69,TRUE
+474,Paulinho Freire,RN,M,Masculino,22/10/1964,61,TRUE
+475,Paulo Abi-Ackel,MG,M,Masculino,21/06/1963,62,FALSE
+476,Paulo Alexandre Barbosa,SP,M,Masculino,09/01/1979,46,TRUE
+477,Paulo Azi,BA,M,Masculino,14/01/1963,62,TRUE
+478,Paulo Folletto,ES,M,Masculino,30/04/1956,69,TRUE
+479,Paulo Freire Costa,SP,M,Masculino,14/02/1955,70,TRUE
+480,Paulo Guedes,MG,M,Masculino,01/10/1970,55,TRUE
+481,Paulo Lemos,PA,M,Masculino,08/01/1972,53,TRUE
+482,Paulo Litro,PR,M,Masculino,30/10/1991,33,TRUE
+483,Paulo Magalhães,BA,M,Masculino,28/11/1952,72,TRUE
+484,Paulo Marinho Jr,MA,M,Masculino,09/02/1985,40,TRUE
+485,Paulo Pimenta,RS,M,Masculino,19/03/1965,60,TRUE
+486,Paulo Teixeira,SP,M,Masculino,09/05/1961,64,TRUE
+487,Pedro Aihara,MG,M,Masculino,16/02/1993,32,TRUE
+488,Pedro Campos,PE,M,Masculino,28/10/1995,29,TRUE
+489,Pedro Jr,MA,M,Masculino,29/03/1970,55,TRUE
+490,Pedro Lucas Fernandes,MA,M,Masculino,01/11/1979,45,TRUE
+491,Pedro Lupion,PR,M,Masculino,04/06/1983,42,TRUE
+492,Pedro Paulo,RJ,M,Masculino,29/06/1972,53,TRUE
+493,Pedro Tourinho,MG,M,Masculino,19/12/1981,43,TRUE
+494,Pedro Uczai,SC,M,Masculino,10/03/1963,62,TRUE
+495,Pedro Westphalen,RS,M,Masculino,19/12/1950,74,TRUE
+496,Pezenti,SC,M,Masculino,06/06/1987,38,TRUE
+497,Pinheirinho,MG,M,Masculino,30/05/1991,34,TRUE
+498,Pompeo de Mattos,RS,M,Masculino,12/07/1958,67,TRUE
+499,Pr. Marco Feliciano,SP,M,Masculino,12/10/1972,53,TRUE
+500,Priscila Costa,CE,F,Feminino,12/09/1984,41,TRUE
+501,Prof. Paulo Fernando,DF,M,Masculino,11/06/1967,58,TRUE
+502,Prof. Reginaldo Veras,CE,M,Masculino,02/01/1973,52,TRUE
+503,Professor Alcides,BA,M,Masculino,25/10/1953,72,TRUE
+504,Professora Goreth,AP,F,Feminino,09/09/1963,62,TRUE
+505,Professora Luciene Cavalcante,SP,F,Feminino,21/12/1979,45,TRUE
+506,Professora Marcivania,AP,F,Feminino,21/06/1973,52,TRUE
+507,Rafael Brito,AL,M,Masculino,25/08/1981,44,TRUE
+508,Rafael Fera,RO,M,Masculino,06/02/1990,35,TRUE
+509,Rafael Prudente,DF,M,Masculino,05/11/1983,41,TRUE
+510,Rafael Simoes,MG,M,Masculino,29/11/1964,60,TRUE
+511,Raimundo Costa,BA,M,Masculino,09/03/1961,64,TRUE
+512,Raimundo Santos,PA,M,Masculino,10/10/1955,70,TRUE
+513,Raniery Paulino,PB,M,Masculino,18/10/1978,47,TRUE
+514,Reginaldo Lopes,MG,M,Masculino,02/04/1973,52,TRUE
+515,Reginete Bispo,RS,F,Feminino,23/01/1963,62,TRUE
+516,Reimont,MG,M,Masculino,02/09/1961,64,TRUE
+517,Reinhold Stephanes,PR,M,Masculino,26/07/1965,60,FALSE
+518,Renan Ferreirinha,RJ,M,Masculino,23/10/1993,32,TRUE
+519,Renata Abreu,SP,F,Feminino,15/04/1982,43,TRUE
+520,Renilce Nicodemos,PA,F,Feminino,08/12/1976,48,TRUE
+521,Renildo Calheiros,AL,M,Masculino,20/04/1959,66,TRUE
+522,Ribamar Silva,SP,M,Masculino,27/05/1975,50,TRUE
+523,Ricardo Abrão,RJ,M,Masculino,13/09/1972,53,TRUE
+524,Ricardo Ayres,GO,M,Masculino,17/01/1979,46,TRUE
+525,Ricardo Barros,PR,M,Masculino,15/11/1959,65,TRUE
+526,Ricardo Guidi,SC,M,Masculino,28/09/1977,48,TRUE
+527,Ricardo Maia,BA,M,Masculino,26/08/1975,50,TRUE
+528,Ricardo Salles,SP,M,Masculino,08/06/1975,50,TRUE
+529,Ricardo Silva,SP,M,Masculino,01/09/1985,40,TRUE
+530,Robério Monteiro,CE,M,Masculino,15/02/1970,55,TRUE
+531,Roberta Roma,BA,F,Feminino,11/05/1980,45,TRUE
+532,Roberto Duarte,RS,M,Masculino,25/04/1975,50,TRUE
+533,Roberto Monteiro Pai,RJ,M,Masculino,08/12/1956,68,TRUE
+534,Robinson Faria,RN,M,Masculino,12/04/1959,66,TRUE
+535,Rodolfo Nogueira,MS,M,Masculino,24/11/1973,51,TRUE
+536,Rodrigo da Zaeli,PR,M,Masculino,26/11/1975,49,TRUE
+537,Rodrigo de Castro,MG,M,Masculino,15/07/1971,54,TRUE
+538,Rodrigo Estacho,PR,M,Masculino,16/01/1989,36,TRUE
+539,Rodrigo Gambale,SP,M,Masculino,17/03/1984,41,TRUE
+540,Rodrigo Rollemberg,RJ,M,Masculino,13/07/1959,66,TRUE
+541,Rodrigo Valadares,SE,M,Masculino,06/08/1989,36,TRUE
+542,Rogéria Santos,RJ,F,Feminino,19/08/1966,59,TRUE
+543,Rogério Correia,MG,M,Masculino,11/01/1958,67,TRUE
+544,Romero Rodrigues,PB,M,Masculino,09/01/1966,59,TRUE
+545,Ronaldo Nogueira,RS,M,Masculino,25/04/1966,59,TRUE
+546,Rosana Valle,SP,F,Feminino,08/05/1969,56,TRUE
+547,Rosangela Gomes,RJ,F,Feminino,27/12/1966,58,TRUE
+548,Rosangela Moro,PR,F,Feminino,28/05/1974,51,TRUE
+549,Rosângela Reis,MG,F,Feminino,18/04/1963,62,TRUE
+550,Roseana Sarney,MA,F,Feminino,01/06/1953,72,TRUE
+551,Rubens Otoni,GO,M,Masculino,06/02/1956,69,TRUE
+552,Rubens Pereira Júnior,MA,M,Masculino,16/03/1984,41,TRUE
+553,Rui Falcão,MG,M,Masculino,26/11/1943,81,TRUE
+554,Ruy Carneiro,PB,M,Masculino,17/08/1970,55,FALSE
+555,Sâmia Bomfim,SP,F,Feminino,22/08/1989,36,TRUE
+556,Samuel Santos,BA,M,Masculino,03/10/1971,54,TRUE
+557,Samuel Viana,MG,M,Masculino,05/03/1992,33,TRUE
+558,Sanderson,RS,M,Masculino,01/12/1969,55,TRUE
+559,Sandro Alex,PR,M,Masculino,25/11/1972,52,TRUE
+560,Sargento Fahur,PR,M,Masculino,06/11/1963,61,TRUE
+561,Sargento Gonçalves,PB,M,Masculino,27/02/1984,41,TRUE
+562,Sargento Portugal,RJ,M,Masculino,26/08/1976,49,TRUE
+563,Saullo Vianna,AM,M,Masculino,22/06/1984,41,TRUE
+564,Saulo Pedroso,SP,M,Masculino,21/01/1983,42,TRUE
+565,Sérgio Brito,BA,M,Masculino,08/06/1961,64,TRUE
+566,Sergio Souza,PR,M,Masculino,13/03/1971,54,TRUE
+567,Sidney Leite,AM,M,Masculino,08/04/1967,58,TRUE
+568,Silas Câmara,AC,M,Masculino,15/12/1962,62,FALSE
+569,Silvia Cristina,ES,F,Feminino,15/01/1974,51,TRUE
+570,Silvia Waiãpi,AP,F,Feminino,29/08/1975,50,TRUE
+571,Silvio Antonio,MA,M,Masculino,06/08/1969,56,TRUE
+572,Silvio Costa Filho,PE,M,Masculino,05/03/1982,43,TRUE
+573,Silvye Alves,GO,F,Feminino,08/11/1980,44,TRUE
+574,Simone Marquetto,SP,F,Feminino,20/09/1975,50,TRUE
+575,Socorro Neri,AC,F,Feminino,19/05/1966,59,TRUE
+576,Sônia Guajajara,MA,F,Feminino,06/03/1974,51,TRUE
+577,Sonize Barbosa,AP,F,Feminino,12/05/1971,54,TRUE
+578,Soraya Santos,RJ,F,Feminino,04/12/1958,66,TRUE
+579,Sóstenes Cavalcante,AL,M,Masculino,16/01/1975,50,TRUE
+580,Stefano Aguiar,MG,M,Masculino,03/03/1976,49,TRUE
+581,Tabata Amaral,SP,F,Feminino,14/11/1993,31,TRUE
+582,Tadeu Oliveira,CE,M,Masculino,25/10/1966,59,TRUE
+583,Tadeu Veneri,PR,M,Masculino,10/02/1953,72,TRUE
+584,Talíria Petrone,RJ,F,Feminino,09/04/1985,40,TRUE
+585,Tarcísio Motta,RJ,M,Masculino,28/01/1975,50,TRUE
+586,Thiago de Joaldo,SP,M,Masculino,20/06/1982,43,TRUE
+587,Thiago Flores,SP,M,Masculino,03/07/1980,45,TRUE
+588,Tiago Dimas,MG,M,Masculino,04/08/1988,37,TRUE
+589,Tião Medeiros,PR,M,Masculino,08/01/1983,42,TRUE
+590,Tiririca,CE,M,Masculino,01/05/1965,60,TRUE
+591,Toninho Wandscheer,PR,M,Masculino,31/08/1950,75,TRUE
+592,Túlio Gadêlha,PE,M,Masculino,12/11/1987,37,TRUE
+593,Ulisses Guimarães,MG,M,Masculino,22/02/1989,36,TRUE
+594,Valmir Assunção,BA,M,Masculino,17/12/1964,60,TRUE
+595,Vander Loubet,MS,M,Masculino,22/01/1964,61,TRUE
+596,Vermelho,PR,M,Masculino,01/03/1959,66,TRUE
+597,Vicentinho,RN,M,Masculino,08/04/1956,69,TRUE
+598,Vicentinho Júnior,GO,M,Masculino,11/04/1985,40,TRUE
+599,Vinicius Carvalho,RJ,M,Masculino,07/01/1966,59,TRUE
+600,Vinicius Gurgel,AP,M,Masculino,31/07/1978,47,TRUE
+601,Vitor Lippi,SP,M,Masculino,18/05/1959,66,FALSE
+602,Waldemar Oliveira,PE,M,Masculino,29/11/1972,52,TRUE
+603,Waldenor Pereira,BA,M,Masculino,08/03/1954,71,TRUE
+604,Washington Quaquá,RJ,M,Masculino,31/05/1971,54,TRUE
+605,Weliton Prado,MG,M,Masculino,24/08/1975,50,TRUE
+606,Wellington Roberto,PB,M,Masculino,19/05/1959,66,TRUE
+607,Welter,PR,M,Masculino,23/11/1968,56,TRUE
+608,Wilson Santiago,PB,M,Masculino,10/06/1957,68,TRUE
+609,Wolmer Araújo,MA,M,Masculino,11/08/1977,48,TRUE
+610,Yandra Moura,SE,F,Feminino,25/04/1994,31,TRUE
+611,Yury do Paredão,CE,M,Masculino,31/05/1988,37,TRUE
+612,Zé Adriano,AC,M,Masculino,18/03/1966,59,TRUE
+613,Zé Haroldo Cathedral,MT,M,Masculino,22/03/1982,43,TRUE
+614,Zé Neto,BA,M,Masculino,30/03/1964,61,TRUE
+615,Zé Silva,MG,M,Masculino,11/05/1963,62,TRUE
+616,Zé Trovão,SP,M,Masculino,22/07/1988,37,TRUE
+617,Zé Vitor,MG,M,Masculino,01/11/1984,40,TRUE
+618,Zeca Dirceu,PR,M,Masculino,21/06/1978,47,TRUE
+619,Zezinho Barbary,AC,M,Masculino,28/05/1966,59,TRUE
+620,Zucco,RS,M,Masculino,09/03/1974,51,TRUE
